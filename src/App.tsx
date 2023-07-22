@@ -10,7 +10,7 @@ function App() {
         width: "100%",
         height: "100vh",
         backgroundImage: `url(./assets/pic01.jpg)`,
-        backgroundSize: "cover", // Adjust the backgroundSize as needed
+        backgroundSize: "cover",
         backgroundPosition: "center",
       }}
     >
