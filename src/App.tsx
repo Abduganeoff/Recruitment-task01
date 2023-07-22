@@ -11,7 +11,7 @@ function App() {
         height: "100vh",
         backgroundImage: `url(./assets/pic01.jpg)`,
         backgroundSize: "cover",
-        backgroundPosition: "center",
+        backgroundPosition: "center", // center
       }}
     >
       <Box
